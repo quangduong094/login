@@ -1,2 +1,2 @@
-`Project for subject Ruby on Rails in HUST`
+Ruby on Rails
 # new web with login, logout
