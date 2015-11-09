@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+gem 'faker',                '1.4.2'
+gem 'will_paginate',           '3.0.7'
+gem 'bootstrap-will_paginate', '0.0.10'
 gem 'unicorn',        '4.8.3'
 gem 'rails',        '4.2.2'
 gem 'bootstrap-sass',       '3.2.0.0'
